@@ -57,7 +57,7 @@
     if(self = [super init])
     {
        
-        
+        NSLog(@"test 测试！");
     }
     return self;
 }
